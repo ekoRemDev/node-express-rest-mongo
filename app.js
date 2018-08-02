@@ -166,7 +166,7 @@ app.listen(3000, (req, res) => {
 });
 
 
-/* Todo 5- Create Database and Colelctions
+/* Todo 5- Create Database and Collections
 MongoDB node_express_rest_mongo
 Collection members
 Sample Data
